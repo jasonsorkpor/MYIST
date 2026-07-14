@@ -1,5 +1,5 @@
 Web Development & Design  
-Crafting modern, responsive websites that balance functionality with aesthetics. BY YOURS TRULY
+Crafting modern, responsive websites that balance functionality with aesthetics. BY YOURS TRULY(JASON)
 
 Software Solutions  
 Developing lightweight applications and tools tailored to client needs, from productivity apps to educational platforms.
